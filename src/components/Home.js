@@ -62,6 +62,8 @@ const Home = (props) => {
       <NewDisney />
       <Originals />
       <Trending />
+      <h4>Designed By: Vignesh B</h4>
+      <h4>Mail id: vignesh.bsk@gmail.com</h4>
     </Container>
   );
 };
